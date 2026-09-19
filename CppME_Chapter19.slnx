@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../CppME_Chapter19_Example19.10/CppME_Chapter19_Example19.10.vcxproj" />
+  <Project Path="../CppME_Chapter19_Example19.14/CppME_Chapter19_Example19.14.vcxproj" />
+  <Project Path="../CppME_Chapter19_Example19.16/CppME_Chapter19_Example19.16.vcxproj" />
+  <Project Path="../CppME_Chapter19_Example19.18/CppME_Chapter19_Example19.18.vcxproj" />
+  <Project Path="../CppME_Chapter19_Example19.19/CppME_Chapter19_Example19.19.vcxproj" />
+  <Project Path="../CppME_Chapter19_Example19.24/CppME_Chapter19_Example19.24.vcxproj" />
+  <Project Path="../CppME_Chapter19_Example19.25/CppME_Chapter19_Example19.25.vcxproj" />
+  <Project Path="../CppME_Chapter19_Example19.6/CppME_Chapter19_Example19.6.vcxproj" />
+  <Project Path="../CppME_Chapter19_Example19.8/CppME_Chapter19_Example19.8.vcxproj" />
+  <Project Path="CppME_Chapter19.vcxproj" />
+</Solution>
