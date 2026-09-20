@@ -3,14 +3,14 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../CppME_Chapter19_Example19.10/CppME_Chapter19_Example19.10.vcxproj" />
-  <Project Path="../CppME_Chapter19_Example19.14/CppME_Chapter19_Example19.14.vcxproj" />
-  <Project Path="../CppME_Chapter19_Example19.16/CppME_Chapter19_Example19.16.vcxproj" />
-  <Project Path="../CppME_Chapter19_Example19.18/CppME_Chapter19_Example19.18.vcxproj" />
-  <Project Path="../CppME_Chapter19_Example19.19/CppME_Chapter19_Example19.19.vcxproj" />
-  <Project Path="../CppME_Chapter19_Example19.24/CppME_Chapter19_Example19.24.vcxproj" />
-  <Project Path="../CppME_Chapter19_Example19.25/CppME_Chapter19_Example19.25.vcxproj" />
-  <Project Path="../CppME_Chapter19_Example19.6/CppME_Chapter19_Example19.6.vcxproj" />
-  <Project Path="../CppME_Chapter19_Example19.8/CppME_Chapter19_Example19.8.vcxproj" />
-  <Project Path="CppME_Chapter19.vcxproj" />
+  <Project Path="../CppME_Chapter19_Example19.10/CppME_Chapter19_Example19.10.vcxproj" Id="b309be3a-d7c3-4c34-9f8a-d75c3b8c1022" />
+  <Project Path="../CppME_Chapter19_Example19.14/CppME_Chapter19_Example19.14.vcxproj" Id="34ed2347-113a-4867-8448-d15108ddc36d" />
+  <Project Path="../CppME_Chapter19_Example19.16/CppME_Chapter19_Example19.16.vcxproj" Id="12aa010b-7ee5-4133-adbb-909e1c506f65" />
+  <Project Path="../CppME_Chapter19_Example19.18/CppME_Chapter19_Example19.18.vcxproj" Id="b7ac08ef-4ce9-40a9-b07b-3c060c4149af" />
+  <Project Path="../CppME_Chapter19_Example19.19/CppME_Chapter19_Example19.19.vcxproj" Id="9e24638d-ba40-4e03-9c62-0b067a7e6fde" />
+  <Project Path="../CppME_Chapter19_Example19.24/CppME_Chapter19_Example19.24.vcxproj" Id="93b4d1b8-e965-4327-b3ca-26ac7ab4577f" />
+  <Project Path="../CppME_Chapter19_Example19.25/CppME_Chapter19_Example19.25.vcxproj" Id="33d94147-f785-4573-9551-677931293b35" />
+  <Project Path="../CppME_Chapter19_Example19.6/CppME_Chapter19_Example19.6.vcxproj" Id="849d4cb1-2214-49d3-aa30-db271e196332" />
+  <Project Path="../CppME_Chapter19_Example19.8/CppME_Chapter19_Example19.8.vcxproj" Id="fb32f485-0a96-4254-b8f5-0ac14fd07294" />
+  <Project Path="CppME_Chapter19.vcxproj" Id="211b46ef-fa79-4d14-829c-9955f371ca45" />
 </Solution>
